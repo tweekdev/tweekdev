@@ -11,7 +11,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at [FDLV](https://www.fdlv.com/) as full stack developer. 
+- 🔭 I’m currently working at [nexten.io](https://www.nexten.io/) as full stack JS developer. 
 - 🌱 I’m currently learning MERN stack, typeScript, Python...
 - 📫 How to reach me: email: tja.theau54@gmail.com
 - Insta : https://www.instagram.com/theauuuu_antoine/
