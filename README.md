@@ -4,7 +4,7 @@
 **tweekdev/tweekdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[![Github Followers Badge](https://img.shields.io/github/followers/Aina261?style=social)](https://github.com/tweekdev/)<br />
+[![Github Followers Badge](https://img.shields.io/github/followers/tweekdev?style=social)](https://github.com/tweekdev/)<br />
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%C3%A9au-antoine/)<br />
 [![Website perso.crans.org](https://img.shields.io/website-up-down-green-red/http/perso.crans.org.svg)](https://tweekdev.io/)
 
